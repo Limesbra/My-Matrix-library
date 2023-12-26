@@ -1,6 +1,6 @@
 
-#ifndef MATRIX_CPP_MY_MATRIX_OOP_H
-#define MATRIX_CPP_MY_MATRIX_OOP_H
+#ifndef MY_MATRIX_OOP_H
+#define MY_MATRIX_OOP_H
 
 #include <stdexcept>
 #include <cmath>
@@ -54,4 +54,4 @@ class My_Matrix {
 };
 
 
-#endif // MATRIX_CPP_MY_MATRIX_OOP_H
+#endif // MY_MATRIX_OOP_H
